@@ -1,4 +1,4 @@
-# [DontEditBOT](https://telegram.me/dontedit_bot)
+# [NotEditBOT](https://telegram.me/not_editbot)
 
 * **Training runs on free hosting**
 [openshift](https://www.openshift.com/)
@@ -11,22 +11,21 @@
 ```sh
 # Tested and will run without problem
 
-Import the https://github.com/alireza1998/DontEditBOT to your Github and edit(line 3 token|line 4 userid)
+Import the https://github.com/kia0965/DontEditmsg to your Github and edit(line 3 token|line 4 userid)
 Creating an account on the site www.openshift.com
 And build an application
 Choose PHP 5.4
-Import ex: https://github.com/alireza1998/DontEditBOT.git
+Import ex: https://github.com/kia0965/DontEditmsg.git
  And click on Create Application
  
 The last step is to set the webhook
 
 https://api.telegram.org/bot<token>/setwebhook?url=https://harchi-harchi.rhcloud.com/index.php
 
-Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/setwebhook?url=https://phpdontedit-alirezapt.rhcloud.com/index.php
+Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/setwebhook?url=https://phpdontedit-ImUnknow.rhcloud.com/index.php
 ```
 
 # رفع مشکل 
-[alireza_PT](https://telegram.me/cliapi)
+[Fuck Everything](https://telegram.me/ImUnknow)
 
-# رفع مشکل /سوال 
-[pmresan](https://telegram.me/alireza_pt_bot)
+
